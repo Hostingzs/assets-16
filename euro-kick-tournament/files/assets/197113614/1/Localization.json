@@ -1,0 +1,25 @@
+{"Localization":[
+    {
+        "TapStartMenu":["Tap to Start","Tape pour commencer"],
+        "TeamPlayerNameOutline":["Name :","Nom :"],
+        "TeamPlayerNameNotice":["Pick your Team And UserName","Choisi ton equipe et met ton nom"],
+        "TeamDoneNotice":["Play","Jouer"],
+        "TeamMatchUpMatchNotice":["Start Match","Commencer Le Match"],
+        "MatchOverUIWinWord":["Winners","Vainqueurs"],   
+        "MatchOverUILoseWord":["Losers","Perdants"],
+        "MatchOverUIWinnerNotice":["Winner   is","Le Vainqueur :"],
+        "MatchOverUINoticeWin":["Tap to Continue","Taper pour Continuer"],
+        "MatchOverUINoticeLose":["Tap to Return to Menu","Tape pour Retourner au Menu"],
+        "MatchStartRewardedAdA":["",""],
+        "MatchStartRewardedAdB":["",""],
+        "MatchStartRewardedAdC":["",""],        
+        "MatchLostRewardedAdA":["",""],
+        "MatchLostRewardedAdB":["",""],    
+        "MatchLostRewardedAdC":["","U"],              
+        "CupCelebrationCongratulations":["Congratulations!!!","Felicitations"],
+        "CupCelebrationSentence":["You've Won The Kayfo Cup","Gagnant de la Coupe Kayfo"],
+        "CupCelebrationNotice":["Tap To Go to Continue","Tape Pour Continuer"],    
+        "TieBreakerWord":["Tie-Breaker","Eliminatoire"]                      
+    }
+]
+}
